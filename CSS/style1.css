@@ -1,0 +1,10 @@
+<div image
+</div>
+
+.images {
+	width : 100%;
+	height : 93vh;
+	background-image: url(img/background.png);
+	background-position:relative;
+	background-repeat : no-repeat;
+}
